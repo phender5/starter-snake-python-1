@@ -2,7 +2,6 @@ import json
 import os
 import random
 import bottle
-import queue
 
 from api import ping_response, start_response, move_response, end_response
 
